@@ -1,0 +1,7 @@
+{
+  "name": "FILEX Photo",
+  "description": "تطبيق احترافي مدعوم بالذكاء الاصطناعي لإضافة الأشخاص إلى صورك الشخصية بطريقة واقعية وسلسة.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
